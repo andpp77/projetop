@@ -1,0 +1,29 @@
+.bloco{
+    height: 100px;
+    width: 100px;
+    border: dashed red 1px;
+    display: inline-block;
+    overflow: auto;
+}
+article{
+    border: black solid 1px;
+    width: 80%;
+    margin: 0 auto;
+}
+.azul{
+    background-color: aquamarine;
+}
+.vermelho{
+    background-color: red;
+}
+.verde{
+    background-color: green;
+}
+.amarelo{
+    background-color: yellow;
+}
+#container{
+    border: black solid 1px;
+    width: 80%;
+    margin: 0 auto;
+}
